@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "compile": "tsc --build",
+    "watch": "tsc --watch"
+  },
+  "name": "fokus",
+  "version": "1.0.0",
+  "main": "script-crud.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
